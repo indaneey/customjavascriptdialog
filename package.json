@@ -1,0 +1,53 @@
+{
+  "name": "customjavascriptdialog",
+  "version": "1.0.0",
+  "description": "timeCall.js is a simple library that used to get a human readable form of date object.",
+  "main": "./dist/customdialog.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timecall",
+    "momentjs",
+    "format time",
+    "format date",
+    "date",
+    "time",
+    "JavaScript",
+    "JavaScript Date",
+    "JavaScript time",
+    "format",
+    "validate",
+    "validate date",
+    "validate time",
+    "i18n",
+    "l10n",
+    "ender",
+    "moment"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indaneey/customdialog.git"
+  },
+  "author": "Indaneey_group <indaneeey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/indaneey/customdialog/issues"
+  },
+  "homepage": "https://github.com/indaneey/customdialog#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
