@@ -7,27 +7,27 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "timecall",
-    "momentjs",
-    "format time",
-    "format date",
-    "date",
-    "time",
+    "javascript",
+    "popup",
+    "modal",
+    "alert",
+    "cobfirm",
+    "prompt",
     "JavaScript",
-    "JavaScript Date",
-    "JavaScript time",
-    "format",
-    "validate",
-    "validate date",
-    "validate time",
-    "i18n",
-    "l10n",
-    "ender",
-    "moment"
+    "JavaScript alert",
+    "JavaScript confirm",
+    "custom modal",
+    "async",
+    "moment",
+    "react",
+    "vue",
+    "angular",
+    "css",
+    "mobile"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indaneey/customdialog.git"
+    "url": "git+https://github.com/indaneey/customjavascriptdialog.git"
   },
   "author": "Indaneey_group <indaneeey@gmail.com>",
   "license": "MIT",
@@ -44,9 +44,9 @@
     "style-loader": "^3.3.3"
   },
   "bugs": {
-    "url": "https://github.com/indaneey/customdialog/issues"
+    "url": "https://github.com/indaneey/customjavascriptdialog/issues"
   },
-  "homepage": "https://github.com/indaneey/customdialog#readme",
+  "homepage": "https://github.com/indaneey/customjavascriptdialog#readme",
   "directories": {
     "lib": "lib"
   }
