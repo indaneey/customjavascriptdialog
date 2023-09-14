@@ -1,6 +1,6 @@
 {
   "name": "customjavascriptdialog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "timeCall.js is a simple library that used to get a human readable form of date object.",
   "main": "./dist/customdialog.min.js",
   "scripts": {
